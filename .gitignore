@@ -1,0 +1,11 @@
+# Data files (too large for GitHub)
+*.csv
+*.xlsx
+*.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+__pycache__/
